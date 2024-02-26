@@ -1,4 +1,4 @@
-<img src="./market.jpg" width="1200px">
+<img src="./market.jpg">
 
 # About Me 💭
 
