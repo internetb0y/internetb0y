@@ -1,4 +1,6 @@
-<h1> Hi There, I Am Aji Wicaksana 👋 </h1>
+<img src="./market.jpg" width="1200px">
+
+# About Me 💭
 
 <!--
 **internetb0y/internetb0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
