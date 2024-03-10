@@ -2,8 +2,6 @@
 
 # About Me 💭
 
-Aji
-
 <!--
 **internetb0y/internetb0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
